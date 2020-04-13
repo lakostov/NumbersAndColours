@@ -1,0 +1,7 @@
+C:\Users\Lachezar\source\repos\NumbersAndColours\NumbersAndColours\bin\Debug\NumbersAndColours.exe.config
+C:\Users\Lachezar\source\repos\NumbersAndColours\NumbersAndColours\bin\Debug\NumbersAndColours.exe
+C:\Users\Lachezar\source\repos\NumbersAndColours\NumbersAndColours\bin\Debug\NumbersAndColours.pdb
+C:\Users\Lachezar\source\repos\NumbersAndColours\NumbersAndColours\obj\Debug\NumbersAndColours.csprojAssemblyReference.cache
+C:\Users\Lachezar\source\repos\NumbersAndColours\NumbersAndColours\obj\Debug\NumbersAndColours.csproj.CoreCompileInputs.cache
+C:\Users\Lachezar\source\repos\NumbersAndColours\NumbersAndColours\obj\Debug\NumbersAndColours.exe
+C:\Users\Lachezar\source\repos\NumbersAndColours\NumbersAndColours\obj\Debug\NumbersAndColours.pdb
